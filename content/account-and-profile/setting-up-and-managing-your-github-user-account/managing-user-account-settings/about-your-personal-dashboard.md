@@ -24,7 +24,7 @@ To access your personal dashboard once you're signed in, click the {% octicon "m
 
 ## Finding your recent activity
 
-In the "Recent activity" section of your news feed, you can quickly find and follow up with recently updated issues and pull requests you're working on. Under "Recent activity", you can preview up to 12 recent updates made in the last two weeks.
+In the "Recent activity" section of your news feed, you can quickly find and follow up with recently updated issues and pull requests you're working on. Under "Recent activity", you can preview up to 4 recent updates made in the last two weeks.
 
 {% data reusables.dashboard.recent-activity-qualifying-events %}
 
@@ -65,7 +65,7 @@ You'll see updates in your news feed when a user you follow:
 - Forks a public repository.{% endif %}
 - Publishes a new release.
 
-For more information about starring repositories and following people, see "[Following people](/articles/following-people)" and "[Be social](/get-started/quickstart/be-social)."
+For more information about following people and watching repositories, see "[Following people](/get-started/exploring-projects-on-github/following-people)" and "[Be social](/get-started/quickstart/be-social)."
 
 {% if for-you-feed %}
 ### For you feed
